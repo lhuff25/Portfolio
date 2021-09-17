@@ -2,6 +2,11 @@
     <head>
         <title>Portfolio</title>
     </head>
+    <style>
+        h2 { 
+            color: red
+        }
+        </style>
     <body>
         <p> Email: lawhuff@udel.edu</p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
