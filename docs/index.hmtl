@@ -4,8 +4,7 @@
         <title>Test Page</title>
     </head>
     <body>
-        <h1> email: lawhuff@udel.edu </h1>
-        <p>A simple paragraph of text</p>
+        <p> Email: lawhuff@udel.edu</p>
         <p>Another paragraph of text</p>
     </body>
 </html>
