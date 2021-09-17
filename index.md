@@ -1,10 +1,9 @@
-<!DOCTYPE HMTL>
 <HMTL>
     <head>
         <title>Portfolio</title>
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
-        <p>Another paragraph of text</p>
+        <p>My skills</p>
     </body>
-</html>
+</HMLT>
