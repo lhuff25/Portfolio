@@ -2,6 +2,7 @@
     <head>
         <title>Portfolio</title>
     </head>
+    <link rel = "stylesheet" href = "style.css">
     <style>
         h2 { 
             color: red;
