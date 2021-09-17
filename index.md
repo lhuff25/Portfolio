@@ -4,7 +4,8 @@
     </head>
     <style>
         h2 { 
-            color: red
+            color: red;
+            font-size: 30px; 
         }
         </style>
     <body>
