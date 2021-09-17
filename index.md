@@ -6,7 +6,7 @@
         h2 { 
             color: red;
         }
-        th{
+        tr{
             color: blue; 
         }
         </style>
