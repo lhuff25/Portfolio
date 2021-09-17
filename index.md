@@ -39,9 +39,13 @@
  </tr>
  </table>
  <ul>
- <h2> TODO: <h2>
+ <h2> ChangeLog: <h2>
  <h3> Change log-Second Week <h3>
  <li> Caught up on missed class time and learned basics of CSS and HMTL. <li>
+ <h2> TODO <h2>
+ <h3> Week 3 <h3>
+ <li> Want to learn more Java/TypeScript other techonolgies such as Bootstrap and interface<li>
+ <li> Plan on deciding on an indivudal artifact/project and work on that<li>
  </ul>
  </table>
     </body>
