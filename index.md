@@ -1,8 +1,8 @@
 <hmtl>
     <head>
         <title>Portfolio</title>
+        <link rel = "stylesheet" href = "style.css"/>
     </head>
-    <link rel = "stylesheet" href = "style.css">
     <body>
         <p> Email: lawhuff@udel.edu</p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
