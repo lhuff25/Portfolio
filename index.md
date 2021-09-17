@@ -1,4 +1,4 @@
-<HMTL>
+<hmtl>
     <head>
         <title>Portfolio</title>
     </head>
@@ -6,4 +6,4 @@
         <p> Email: lawhuff@udel.edu</p>
         <p>My skills</p>
     </body>
-</HMLT>
+</hmtl>
