@@ -5,7 +5,9 @@
     <style>
         h2 { 
             color: red;
-            font-size: 30px; 
+        }
+        th{
+            color: blue; 
         }
         </style>
     <body>
