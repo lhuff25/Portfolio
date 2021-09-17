@@ -37,9 +37,11 @@
      <td>Used Github to commit all my changes and have the repo linked on this page</td>
      <td><a href = "https://guides.github.com/"> Github guides </a></td>
  </tr>
+ <ul>
  <h2> TODO: <h2>
  <h3> Change log-Second Week <h3>
  <li> Caught up on missed class time and learned basics of CSS and HMTL. <li>
+ </ul>
  </table>
     </body>
 </hmtl>
