@@ -22,7 +22,7 @@
  </tr>
  <tr>
      <td>CSS</td>
-     <td></td>
+     <td>Used CSS to change the background colors and the header colors</td>
      <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"> Fundamentals Of
       Web Programming </a></td>
  </tr>
