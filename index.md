@@ -1,7 +1,7 @@
 <hmtl>
     <head>
         <title>Portfolio</title>
-        <link rel = "stylesheet" href = "css/style.css"/>
+        <link type = "text/css" rel = "stylesheet" href = "style.css"/>
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
