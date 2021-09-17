@@ -4,6 +4,6 @@
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
-        <p>My skills</p>
+        <p></p>
     </body>
 </hmtl>
