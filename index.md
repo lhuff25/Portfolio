@@ -7,4 +7,4 @@
         <p> Email: lawhuff@udel.edu</p>
         <p>Another paragraph of text</p>
     </body>
-</html>
+</hmtl>
