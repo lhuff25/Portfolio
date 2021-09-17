@@ -6,7 +6,7 @@
         <p> Email: lawhuff@udel.edu</p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
          <table width='100%' border=1px cellspacing=0>
- <caption> Skills</caption>
+ <h2> Skills </h2>
  <tr>
      <th>Technology</th>
      <th>Proof/Usage</th>
