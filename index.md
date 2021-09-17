@@ -3,14 +3,6 @@
         <title>Portfolio</title>
     </head>
     <link rel = "stylesheet" href = "style.css">
-    <style>
-        h2 { 
-            color: red;
-        }
-        tr{
-            color: blue; 
-        }
-        </style>
     <body>
         <p> Email: lawhuff@udel.edu</p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
