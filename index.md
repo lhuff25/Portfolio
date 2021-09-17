@@ -1,7 +1,7 @@
 <hmtl>
     <head>
         <title>Portfolio</title>
-        <link rel = "stylesheet" href ="C:\Users\Kingz\lhuff25.github.io\lhuff25.github.io\style.css"/>
+        <link rel = "stylesheet" href ="style.css"/>
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
