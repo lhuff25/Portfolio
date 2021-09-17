@@ -37,6 +37,7 @@
      <td>Used Github to commit all my changes and have the repo linked on this page</td>
      <td><a href = "https://guides.github.com/"> Github guides </a></td>
  </tr>
+ </table>
  <ul>
  <h2> TODO: <h2>
  <h3> Change log-Second Week <h3>
