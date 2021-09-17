@@ -4,6 +4,6 @@
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
-        <p> dark</p>
+         <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
     </body>
 </hmtl>
