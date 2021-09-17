@@ -20,19 +20,21 @@
       Web Programming </a> </td>
  </tr>
  <tr>
-     <td>2</td>
-     <td>John</td>
-     <td>Deere</td>
+     <td>CSS</td>
+     <td></td>
+     <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"> Fundamentals Of
+      Web Programming </a></td>
  </tr>
  <tr>
-     <td>3</td>
-     <td>Nikola</td>
-     <td>Tesla</td>
+     <td>JavaScript</td>
+     <td></td>
+     <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"> Fundamentals Of
+      Web Programming </a></td>
  </tr>
  <tr>
-     <td>4</td>
-     <td>Richard</td>
-     <td>Smith</td>
+     <td>Github</td>
+     <td>Used Github to commit all my changes and have the repo linked on this page</td>
+     <td><a href = "https://guides.github.com/"> Github guides </a></td>
  </tr>
  </table>
     </body>
