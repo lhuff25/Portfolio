@@ -41,7 +41,7 @@
  <ul>
  <h2> ChangeLog: </h2>
  <h3> Change log-Second Week </h3>
- <li> Caught up on missed class time and learned basics of CSS and HMTL. </li>
+ <li> Caught up on missed class time and learned basics of CSS and HMTL, refreshed myself on Git procedures. </li>
  <h2> TODO </h2>
  <h3> Week 3 </h3>
  <li> Want to learn more Java/TypeScript other techonolgies such as Bootstrap and interface</li>
