@@ -1,7 +1,7 @@
 <!DOCTYPE HMTL>
 <HMTL>
     <head>
-        <title>Test Page</title>
+        <title>Portfolio</title>
     </head>
     <body>
         <p> Email: lawhuff@udel.edu</p>
