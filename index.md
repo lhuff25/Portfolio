@@ -45,7 +45,7 @@
  <li> Caught up on missed class time and learned basics of CSS and HMTL, refreshed myself on Git procedures. </li>
  <h3> Change log-Third Week </h3>
  <li> Did a TypeScript tutorial </li>
- <li> Decided to create a survey that collects data on physical fitness as an artifact. </li>
+ <li> Decided to create a survey <td><a href = "https://guides.github.com/"> Github guides </a></td> that collects data on physical fitness as an artifact. </li>
  <h2> TODO </h2>
  <h3> Week 3 </h3>
  <li> Want to learn more Java/TypeScript other techonolgies such as Bootstrap and interface</li>
