@@ -58,8 +58,8 @@
  <li> Want to learn more Java/TypeScript other techonolgies such as Bootstrap and interface</li>
  <li> Plan on deciding on an indivudal artifact/project and work on that</li>
  <h3> Week 4 </h3>
- <li> Need to incoperate new technogies like react into my online survey 
- <li> Would like to make the survey span multiple pages instead of just one and have it terminate if answering certain questions in a way 
+ <li> Need to incoperate new technogies like react into my online survey </li>
+ <li> Would like to make the survey span multiple pages instead of just one and have it terminate if answering certain questions in a way </li>
  </ul> 
  </table>
     </body>
