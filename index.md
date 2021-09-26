@@ -49,7 +49,9 @@
  <h3> Change log-Second Week </h3>
  <li> Caught up on missed class time and learned basics of CSS and HMTL, refreshed myself on Git procedures. </li>
  <h3> Change log-Third Week </h3>
- <li> Did a <td><a href = "https://code.visualstudio.com/docs/typescript/typescript-tutorial#:~:text=TypeScript%20tutorial%20in%20Visual%20Studio%20Code%201%20Install,steps%20%23.%20...%209%20Common%20questions%20%23.%20"> TypeScript tutorial </li>
+ <li> Brushed up more on Javascript HTML CSS basics </li>
+ <li> Computer broke so refreshed on github pull procedures to get files onto new computer </li>
+ <li> Went over Bootstrap and began implementing it into my survey design page </li>
  <li> Decided to create a <td><a href = "https://lhuff25.github.io/Survey/"> Survey </a></td> that collects data on physical fitness as an artifact. </li>
  <h2> TODO </h2>
  <h3> Week 3 </h3>
