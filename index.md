@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<hmtl>
+<html>
     <head>
         <title>Portfolio</title>
         <link rel = "stylesheet" href ="style.css">
     </head>
     <body>
-    <p> Email: lawhuff@udel.edu </p>
-    <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a> <br>
-    <a href = "https://lhuff25.github.io/mysurvey/" > Link to Survey </a>
-    <h2> Skills </h2>
+        <p> Email: lawhuff@udel.edu </p>
+        <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a> <br>
+        <a href = "https://lhuff25.github.io/mysurvey/" > Link to Survey </a>
+        <h2> Skills </h2>
         <table>
             <tr>
                 <th>Technology</th>
@@ -73,4 +73,4 @@
                 <li> Would like to make the survey span multiple pages instead of just one and have it terminate if answering certain questions in a way </li>
             </ul> 
     </body>
-</hmtl>
+</html>
