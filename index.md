@@ -4,7 +4,7 @@
         <link rel = "stylesheet" href ="style.css">
     </head>
     <body>
-        <p> Email: lawhuff@udel.edu</p>
+        <p> Email: lawhuff@udel.edu </p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
          <table width='100%' border=1px cellspacing=0>
          <a href = "https://lhuff25.github.io/mysurvey/" > Link to Survey </a>
