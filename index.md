@@ -8,6 +8,7 @@
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a> <br>
          <table width='100%' border=1px cellspacing=0>
          <a href = "https://lhuff25.github.io/mysurvey/" > Link to Survey </a>
+<table>
  <h2> Skills </h2>
  <tr>
      <th>Technology</th>
@@ -49,6 +50,7 @@
     <td> Used typescript in create react project in order to complete the survey </td>
     <td><a href = "https://www.oreilly.com/library/view/programming-typescript/9781492037644/" > Programming Typescript </a></td>
  </tr>
+</table>
     <ul>
         <h2> ChangeLog: </h2>
         <h3> Change log-Second Week </h3>
