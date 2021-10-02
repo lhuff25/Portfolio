@@ -3,7 +3,7 @@
         <title>Portfolio</title>
         <link rel = "stylesheet" href ="style.css">
     </head>
-    <body>
+<body>
         <p> Email: lawhuff@udel.edu </p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a> <br>
          <table width='100%' border=1px cellspacing=0>
@@ -72,5 +72,5 @@
         <li> Need to incoperate new technogies like react into my online survey </li>
         <li> Would like to make the survey span multiple pages instead of just one and have it terminate if answering certain questions in a way </li>
     </ul> 
-    </body>
+</body>
 </hmtl>
