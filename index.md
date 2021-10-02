@@ -6,6 +6,8 @@
     <body>
         <p> Email: lawhuff@udel.edu</p>
          <a href = "https://github.com/lhuff25/Portfolio"> Link to repository </a>
+         <a href = "https://lhuff25.github.io/mysurvey/" > Link to Survey </a>
+>
          <table width='100%' border=1px cellspacing=0>
  <h2> Skills </h2>
  <tr>
@@ -16,7 +18,7 @@
  <tr>
      <td>HTML</td>
      <td>Used HTML to create this webpage 
-     and the tables</td>
+     and its contents</td>
      <td> <a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"> Fundamentals Of
       Web Programming </a> </td>
  </tr>
@@ -28,7 +30,7 @@
  </tr>
  <tr>
      <td>JavaScript</td>
-     <td> Used JavaScript to have survey direct you off the page if you answer that you don't exercise weekly</td>
+     <td> Used Typescript in survey which is essentially javascript but with some additional features </td>
      <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"> Fundamentals Of
       Web Programming </a></td>
  </tr>
@@ -40,8 +42,13 @@
  </tr>
     <tr>
      <td>Bootstrap</td>
-     <td>Implemented bootstrap into my survey design to incoperate the pictures in the background </td>
+     <td>Implented bootstrap into the survey to change make it more stylish </td>
      <td><a href = "https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/"> Bootstrap CS Codex </a></td>
+ </tr>
+<tr>
+    <td>Typescript</td>
+    <td> Used typescript in create react project in order to complete the survey </td>
+    <td><a href = "https://www.oreilly.com/library/view/programming-typescript/9781492037644/" > Programming Typescript </a></td>
  </tr>
  </table>
  <ul>
@@ -52,7 +59,11 @@
  <li> Brushed up more on Javascript HTML CSS basics </li>
  <li> Computer broke so refreshed on github pull procedures to get files onto new computer </li>
  <li> Went over Bootstrap and began implementing it into my survey design page </li>
- <li> Decided to create a <td><a href = "https://lhuff25.github.io/Survey/"> Survey </a></td> that collects data on physical fitness as an artifact. </li>
+ <li> Decided to create a Survey that collects data on physical fitness as an artifact </li> 
+ <h3> Change log-Fourth week </h3>
+ <li> Watched some tutorials on how to implement typescript and create react </li>
+<li> followed the TA's recommendations and used guides to convert my survey artifact from an HTML project into a react+ts </li>
+<li> Used survey JS library online to format my survey </li>
  <h2> TODO </h2>
  <h3> Week 3 </h3>
  <li> Want to learn more Java/TypeScript other techonolgies such as Bootstrap and interface</li>
