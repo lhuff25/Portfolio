@@ -49,7 +49,6 @@
     <td> Used typescript in create react project in order to complete the survey </td>
     <td><a href = "https://www.oreilly.com/library/view/programming-typescript/9781492037644/" > Programming Typescript </a></td>
  </tr>
- </table>
     <ul>
         <h2> ChangeLog: </h2>
         <h3> Change log-Second Week </h3>
@@ -71,6 +70,5 @@
         <li> Need to incoperate new technogies like react into my online survey </li>
         <li> Would like to make the survey span multiple pages instead of just one and have it terminate if answering certain questions in a way </li>
     </ul> 
-</table>
     </body>
 </hmtl>
